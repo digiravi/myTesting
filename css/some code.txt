@@ -1,0 +1,102 @@
+<h1>Featured Products</h1>
+        <br>
+
+        <div class="box-1">
+            <!-- house blend -->
+            <h2>House Blend Coffee</h2>
+            <img width="250" src="./images/house-blend.jpg" alt="house blend" style="float: right;">
+            <p >
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos impedit inventore error quibusdam laboriosam minus rem eveniet natus quam, nesciunt id iste magni consequuntur quod eius placeat, aperiam praesentium beatae possimus odit accusamus voluptates quia ea. Ex eos iure, rem, facilis nam cum commodi provident dolor ipsum mollitia ullam corporis.
+            </p>
+            <h3><a class="button" href="https://www.wikipedia.org/" target="_blank">        Details</a></h3>
+        </div>
+    
+        <br>
+        <br>
+
+        <div class="categories">
+            <h2>Categories</h2>
+            <ul>
+                <li><a href="#">Category1</a></li>
+                <li><a href="#">Category2</a></li>
+                <li><a href="#">Category3</a></li>
+                <li><a href="#">Category4</a></li>
+            </ul>
+
+        </div>
+
+        <form class="my-form">
+            <div class="form-group">
+                <label for="">Name: </label>
+                 <input type="text" name="name" id="">
+            </div>
+            <div class="form-group">
+                <label for="">Email: </label>
+                <input type="text" name="email" id="">
+            </div>
+            <div class="form-group">
+                <label for="">Message: </label>
+                <textarea name="message" id="" cols="30" rows="10"></textarea>
+            </div>
+                <input class="button" type="submit" name="" id="" value="Submit">
+        </form>
+        <div class="block">
+            <h3>Heading</h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elitVoluptates, omnis. Unde odit nostrum exercitationem deseruntCorporis fugiat delectus rem voluptatem?
+            </p>
+
+        </div>
+        <div class="block">
+            <h3>Heading</h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, omnis. Unde odit nostrum exercitationem
+                deserunt. Corporis fugiat delectus rem voluptatem?
+            </p>
+            
+        </div>
+        <div class="block">
+            <h3>Heading</h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, omnis. Unde odit nostrum exercitationem
+                deserunt. Corporis fugiat delectus rem voluptatem?
+            </p>
+            
+        </div>
+            <div class="clr"></div>
+            <div id="main-block">
+                <h3>Heading</h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, omnis. Unde odit nostrum exercitationem
+                    deserunt. Corporis fugiat delectus rem voluptatem?
+                </p>
+            </div>
+            <div id="sidebar">
+                
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, omnis. Unde odit nostrum exercitationem
+                    deserunt. Corporis fugiat delectus rem voluptatem?
+                </p>
+            </div>
+            <div class="clr"></div>
+
+            <div class="p-box">
+                <h1>Hello</h1>
+                <h3>Good Bye</h3>
+            </div>
+            <ul class="my-list">
+                <li>List Item</li>
+                <li>List Item</li>
+                <li>List Item</li>
+                <li>List Item</li>
+                <li>List Item</li>
+                <li>List Item</li>
+                <li>List Item</li>
+                <li>List Item</li>
+            </ul>
+
+            <a class="fix-me button" href="">Hello</a>
+
+        <div style="margin-top: 500px;"></div>
+        <p><small> Copyright &copy;2021</small></p>
+        <h4><a href="#logo">Back to Top</a></h4> 
